@@ -17,13 +17,6 @@ The data used for this analysis was sourced from the [samdutse].[dbo].[Power_Out
 - Number of outages during a specific date range: The analysis covered the period from April 1, 2023, to April 24, 2023.
 - Number of outages by hour: The hourly breakdown showcased the distribution of outages throughout the day.
 
-**Visualization:**
-To provide a visual representation of the findings, I created visualizations using [insert visualization tools/libraries]. The visualizations include:
-- [Description of visualization 1]
-- [Description of visualization 2]
-- [Description of visualization 3]
-- [Description of visualization 4]
-
 **Conclusion:**
 The analysis of power outages in April 2023 provided valuable insights into the frequency, distribution, and duration of outages. These findings can help stakeholders identify areas for infrastructure improvements, enhance monitoring and response mechanisms, and invest in resilience measures. By addressing the challenges highlighted by the analysis, we can work towards a more reliable and resilient power infrastructure.
 
