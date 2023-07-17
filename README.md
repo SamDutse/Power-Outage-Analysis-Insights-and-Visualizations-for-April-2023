@@ -5,7 +5,7 @@ In this project, I conducted an analysis of power outages using MS SQL. The obje
 
 **Data Source:**
 The data used for this analysis was sourced from the [samdutse].[dbo].[Power_Outages_-_Zipcode] table but gotten originally from kaggle. It contains information on power outages, including unique identifiers (uid), affected areas, number of outages, and timestamps (dt_stamp) indicating when the outages occurred.
-
+![](outage.png)
 **Findings:**
 - Total number of power outages: In April 2023, there were a total of 53,336 power outages.
 - Unique areas with outages: A total of 401 unique areas experienced power outages during the month.
